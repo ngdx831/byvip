@@ -1,0 +1,1533 @@
+{
+  "cities": {
+    "北京": "beijing",
+    "上海": "shanghai",
+    "天津": "tianjin",
+    "重庆": "chongqing",
+    "广州": "guangzhou",
+    "深圳": "shenzhen",
+    "成都": "chengdu",
+    "杭州": "hangzhou",
+    "武汉": "wuhan",
+    "西安": "xian",
+    "郑州": "zhengzhou",
+    "南京": "nanjing",
+    "济南": "jinan",
+    "沈阳": "shenyang",
+    "长春": "changchun",
+    "哈尔滨": "haerbin",
+    "石家庄": "shijiazhuang",
+    "太原": "taiyuan",
+    "呼和浩特": "huhehaote",
+    "合肥": "hefei",
+    "福州": "fuzhoufj",
+    "南昌": "nanchang",
+    "长沙": "changsha",
+    "南宁": "nanning",
+    "海口": "haikou",
+    "贵阳": "guiyang",
+    "昆明": "kunming",
+    "拉萨": "lasa",
+    "兰州": "lanzhou",
+    "西宁": "xining",
+    "银川": "yinchuan",
+    "乌鲁木齐": "wulumuqi",
+    "苏州": "suzhoujs",
+    "无锡": "wuxi",
+    "常州": "changzhou",
+    "南通": "nantong",
+    "宁波": "ningbo",
+    "温州": "wenzhou",
+    "嘉兴": "jiaxing",
+    "金华": "jinhua",
+    "台州": "taizhouzz",
+    "绍兴": "shaoxing",
+    "湖州": "huzhou",
+    "衢州": "quzhou",
+    "舟山": "zhoushan",
+    "丽水": "lishui",
+    "东莞": "dongguan",
+    "佛山": "foshan",
+    "珠海": "zhuhai",
+    "中山": "zhongshan",
+    "惠州": "huizhou",
+    "江门": "jiangmen",
+    "湛江": "zhanjiang",
+    "汕头": "shantou",
+    "韶关": "shaoguan",
+    "肇庆": "zhaoqing",
+    "茂名": "maoming",
+    "梅州": "meizhou",
+    "汕尾": "shanwei",
+    "河源": "heyuan",
+    "阳江": "yangjiang",
+    "清远": "qingyuan",
+    "潮州": "chaozhou",
+    "揭阳": "jieyang",
+    "云浮": "yunfu",
+    "厦门": "xiamen",
+    "泉州": "quanzhou",
+    "漳州": "zhangzhou",
+    "龙岩": "longyan",
+    "三明": "sanming",
+    "南平": "nanping",
+    "莆田": "putian",
+    "宁德": "ningde",
+    "青岛": "qingdao",
+    "烟台": "yantai",
+    "威海": "weihai",
+    "潍坊": "weifang",
+    "淄博": "zibo",
+    "济宁": "jining",
+    "临沂": "linyi",
+    "泰安": "taian",
+    "德州": "dezhou",
+    "聊城": "liaocheng",
+    "滨州": "binzhou",
+    "菏泽": "heze",
+    "枣庄": "zaozhuang",
+    "日照": "rizhao",
+    "莱芜": "laiwu",
+    "东营": "dongying",
+    "大连": "dalian",
+    "鞍山": "anshan",
+    "抚顺": "fushun",
+    "本溪": "benxi",
+    "丹东": "dandong",
+    "锦州": "jinzhou",
+    "营口": "yingkou",
+    "阜新": "fuxin",
+    "辽阳": "liaoyang",
+    "盘锦": "panjin",
+    "铁岭": "tieling",
+    "朝阳": "chaoyang",
+    "葫芦岛": "huludao",
+    "吉林": "jilin",
+    "四平": "siping",
+    "辽源": "liaoyuan",
+    "通化": "tonghua",
+    "白山": "baishan",
+    "松原": "songyuan",
+    "白城": "baicheng",
+    "延边": "yanbian",
+    "齐齐哈尔": "qiqihaer",
+    "鸡西": "jixi",
+    "鹤岗": "hegang",
+    "双鸭山": "shuangyashan",
+    "大庆": "daqing",
+    "伊春": "yichunhlj",
+    "佳木斯": "jiamusi",
+    "七台河": "qitaihe",
+    "牡丹江": "mudanjiang",
+    "黑河": "heihe",
+    "绥化": "suihua",
+    "大兴安岭": "daxinganling",
+    "唐山": "tangshan",
+    "秦皇岛": "qinhuangdao",
+    "邯郸": "handan",
+    "邢台": "xingtai",
+    "保定": "baoding",
+    "张家口": "zhangjiakou",
+    "承德": "chengde",
+    "沧州": "cangzhou",
+    "廊坊": "langfang",
+    "衡水": "hengshui",
+    "大同": "datong",
+    "阳泉": "yangquan",
+    "长治": "changzhi",
+    "晋城": "jincheng",
+    "朔州": "shuozhou",
+    "晋中": "jinzhong",
+    "运城": "yuncheng",
+    "忻州": "xinzhou",
+    "临汾": "linfen",
+    "吕梁": "lvliang",
+    "包头": "baotou",
+    "乌海": "wuhai",
+    "赤峰": "chifeng",
+    "通辽": "tongliao",
+    "鄂尔多斯": "eerduosi",
+    "呼伦贝尔": "hulunbeier",
+    "巴彦淖尔": "bayannaoer",
+    "乌兰察布": "wulanchabu",
+    "兴安盟": "xinganmeng",
+    "锡林郭勒": "xilinguole",
+    "阿拉善": "alashan",
+    "芜湖": "wuhu",
+    "蚌埠": "bengbu",
+    "淮南": "huainan",
+    "马鞍山": "maanshan",
+    "淮北": "huaibei",
+    "铜陵": "tongling",
+    "安庆": "anqing",
+    "黄山": "huangshan",
+    "滁州": "chuzhou",
+    "阜阳": "fuyang",
+    "宿州": "suzhouah",
+    "六安": "liuan",
+    "亳州": "bozhou",
+    "池州": "chizhou",
+    "宣城": "xuancheng",
+    "徐州": "xuzhou",
+    "连云港": "lianyungang",
+    "淮安": "huaian",
+    "盐城": "yancheng",
+    "扬州": "yangzhou",
+    "镇江": "zhenjiang",
+    "泰州": "taizhoujs",
+    "宿迁": "suqian",
+    "赣州": "ganzhou",
+    "上饶": "shangrao",
+    "宜春": "yichunjx",
+    "吉安": "jian",
+    "抚州": "fuzhoujx",
+    "九江": "jiujiang",
+    "景德镇": "jingdezhen",
+    "萍乡": "pingxiang",
+    "新余": "xinyu",
+    "鹰潭": "yingtan",
+    "株洲": "zhuzhou",
+    "湘潭": "xiangtan",
+    "衡阳": "hengyang",
+    "邵阳": "shaoyang",
+    "岳阳": "yueyang",
+    "常德": "changde",
+    "张家界": "zhangjiajie",
+    "益阳": "yiyang",
+    "郴州": "chenzhou",
+    "永州": "yongzhou",
+    "怀化": "huaihua",
+    "娄底": "loudi",
+    "湘西": "xiangxi",
+    "黄石": "huangshi",
+    "十堰": "shiyan",
+    "宜昌": "yichang",
+    "襄阳": "xiangyang",
+    "鄂州": "ezhou",
+    "荆门": "jingmen",
+    "孝感": "xiaogan",
+    "荆州": "jingzhou",
+    "黄冈": "huanggang",
+    "咸宁": "xianning",
+    "随州": "suizhou",
+    "恩施": "enshi",
+    "仙桃": "xiantao",
+    "潜江": "qianjiang",
+    "天门": "tianmen",
+    "神农架": "shennongjia",
+    "洛阳": "luoyang",
+    "开封": "kaifeng",
+    "安阳": "anyang",
+    "新乡": "xinxiang",
+    "焦作": "jiaozuo",
+    "濮阳": "puyang",
+    "许昌": "xuchang",
+    "漯河": "luohe",
+    "三门峡": "sanmenxia",
+    "南阳": "nanyang",
+    "商丘": "shangqiu",
+    "信阳": "xinyang",
+    "周口": "zhoukou",
+    "驻马店": "zhumadian",
+    "济源": "jiyuan",
+    "自贡": "zigong",
+    "攀枝花": "panzhihua",
+    "泸州": "luzhou",
+    "德阳": "deyang",
+    "绵阳": "mianyang",
+    "广元": "guangyuan",
+    "遂宁": "suining",
+    "内江": "neijiang",
+    "乐山": "leshan",
+    "南充": "nanchong",
+    "眉山": "meishan",
+    "宜宾": "yibin",
+    "广安": "guangan",
+    "达州": "dazhou",
+    "雅安": "yaan",
+    "巴中": "bazhong",
+    "资阳": "ziyang",
+    "阿坝": "aba",
+    "甘孜": "ganzi",
+    "凉山": "liangshan",
+    "六盘水": "liupanshui",
+    "遵义": "zunyi",
+    "安顺": "anshun",
+    "毕节": "bijie",
+    "铜仁": "tongren",
+    "黔西南": "qianxinan",
+    "黔东南": "qiandongnan",
+    "黔南": "qiannan",
+    "曲靖": "qujing",
+    "玉溪": "yuxi",
+    "保山": "baoshan",
+    "昭通": "zhaotong",
+    "丽江": "lijiang",
+    "普洱": "puer",
+    "临沧": "lincang",
+    "楚雄": "chuxiong",
+    "红河": "honghe",
+    "文山": "wenshan",
+    "西双版纳": "xishuangbanna",
+    "大理": "dali",
+    "德宏": "dehong",
+    "怒江": "nujiang",
+    "迪庆": "diqing",
+    "林芝": "linzhi",
+    "山南": "shannan",
+    "昌都": "changdu",
+    "那曲": "naqu",
+    "阿里": "ali",
+    "日喀则": "rikaze",
+    "嘉峪关": "jiayuguan",
+    "金昌": "jinchang",
+    "白银": "baiyin",
+    "天水": "tianshui",
+    "武威": "wuwei",
+    "张掖": "zhangye",
+    "平凉": "pingliang",
+    "酒泉": "jiuquan",
+    "庆阳": "qingyang",
+    "定西": "dingxi",
+    "陇南": "longnan",
+    "临夏": "linxia",
+    "甘南": "gannan",
+    "海东": "haidong",
+    "海北": "haibei",
+    "黄南": "huangnan",
+    "海南": "hainan",
+    "果洛": "guoluo",
+    "玉树": "yushu",
+    "海西": "haixi",
+    "石嘴山": "shizuishan",
+    "吴忠": "wuzhong",
+    "固原": "guyuan",
+    "中卫": "zhongwei",
+    "克拉玛依": "kelamayi",
+    "吐鲁番": "tulufan",
+    "哈密": "hami",
+    "昌吉": "changji",
+    "博尔塔拉": "boertala",
+    "巴音郭楞": "bayinguoleng",
+    "阿克苏": "akesu",
+    "克孜勒苏": "kezilesu",
+    "喀什": "kashi",
+    "和田": "hetian",
+    "伊犁": "yili",
+    "塔城": "tacheng",
+    "阿勒泰": "aletai",
+    "三亚": "sanya",
+    "三沙": "sansha",
+    "儋州": "danzhou",
+    "五指山": "wuzhishan",
+    "琼海": "qionghai",
+    "文昌": "wenchang",
+    "万宁": "wanning",
+    "东方": "dongfang",
+    "定安": "dingan",
+    "屯昌": "tunchang",
+    "澄迈": "chengmai",
+    "临高": "lingao",
+    "白沙": "baisha",
+    "昌江": "changjiang",
+    "乐东": "ledong",
+    "陵水": "lingshui",
+    "保亭": "baoting",
+    "琼中": "qiongzhong",
+    "柳州": "liuzhou",
+    "桂林": "guilin",
+    "梧州": "wuzhou",
+    "北海": "beihai",
+    "防城港": "fangchenggang",
+    "钦州": "qinzhou",
+    "贵港": "guigang",
+    "玉林": "yulin",
+    "百色": "baise",
+    "贺州": "hezhou",
+    "河池": "hechi",
+    "来宾": "laibin",
+    "崇左": "chongzuo"
+  },
+  "tags": {
+    "一万以下": "yiwanyixia",
+    "一万到三万": "yiwandaosanwan",
+    "三万以上": "sanwanyishang",
+    "反差": "fancha",
+    "处女": "chunv",
+    "学生": "xuesheng",
+    "萝莉": "luoli",
+    "艺术生": "yishusheng",
+    "御姐": "yujie",
+    "jk": "jk",
+    "cos": "cos",
+    "舞蹈": "wudao",
+    "声音甜": "shengyintian",
+    "嗲": "dia",
+    "可爱": "keai",
+    "大长腿": "dachangtui",
+    "乖巧": "guaiqiao",
+    "听话": "tinghua",
+    "童颜": "tongyan",
+    "白小纯": "baixiaochun",
+    "日系": "rixi",
+    "韩系": "hanxi",
+    "活泼": "huopo",
+    "三通": "santong",
+    "配合度高": "peihedulegao",
+    "会做饭": "huizuofan",
+    "纯天然": "chuntianran",
+    "打游戏": "dayouxi",
+    "妈生脸": "mashenglian",
+    "水多": "shuiduo",
+    "喷水": "penshui",
+    "制服": "zhifu",
+    "情趣": "qingqu",
+    "口活好": "kouhuohao",
+    "可拍视频": "kepaishipin",
+    "懂事": "dongshi",
+    "情绪价值": "qingxujiazhi",
+    "放得开": "fangdekai",
+    "性格好": "xinggegao",
+    "安静": "anjing",
+    "文静": "wenjing",
+    "高挑": "gaotiao",
+    "腿长": "tuichang",
+    "恋爱脑": "lianaonao",
+    "瑜伽": "yujia",
+    "三点粉": "sandianfen",
+    "混血": "hunxie",
+    "活好": "huohao",
+    "健身": "jianshen",
+    "单纯": "danchun",
+    "皮肤白": "pifubai",
+    "清纯": "qingchun",
+    "乖乖女": "guaiguainv",
+    "小狗": "xiaogou",
+    "情商高": "qingshanggao",
+    "音乐生": "yinyuesheng",
+    "女高": "nvgao",
+    "撒娇": "sajiao",
+    "风骚": "fengsao",
+    "开朗": "kailang",
+    "圈子干净": "quanziganjing",
+    "粘人": "zhanren",
+    "苗条": "miaotiao",
+    "学历高": "xueliigao",
+    "会唱歌": "huichangge",
+    "留学": "liuxue",
+    "敏感": "mingan",
+    "高认知": "gaorenshi",
+    "知性": "zhixing",
+    "脾气好": "piqihao",
+    "贤妻良母": "xianqiliangmu",
+    "空乘": "kongcheng",
+    "会按摩": "huianmo",
+    "会开车": "huikaiche",
+    "善解人意": "shanjirenyi",
+    "高素质": "gaosuzhi",
+    "甜妹": "tianmei",
+    "演员": "yanyuan",
+    "腹肌": "fuji",
+    "皮肤好": "pifuhao",
+    "娇小": "jiaoxiao",
+    "小骨架": "xiaogujia",
+    "时尚": "shishang",
+    "会撒娇": "huisajiao",
+    "眼镜": "yanjing",
+    "顺从": "shuncong",
+    "萌": "meng",
+    "佛系": "foxi",
+    "高瘦白": "gaoshoubai",
+    "邻家": "linjia",
+    "风格多变": "fenggduobian",
+    "阳光": "yangguang",
+    "腼腆": "miantian",
+    "美少女": "meishaonv",
+    "明星脸": "mingxinglian",
+    "洋气": "yangqi",
+    "白虎": "baihu",
+    "白月光": "baiyueguang",
+    "筷子腿": "kuaizitui",
+    "白幼廋": "baiyoushou",
+    "淑女": "shunv",
+    "SM": "sm",
+    "可跨省": "kekuasheng",
+    "可出国": "kechuguo",
+    "内射": "neishe",
+    "无套": "wutao",
+    "颜值高": "yanzhigao",
+    "身材好": "shencaihao",
+    "温柔": "wenrou",
+    "热情": "reqing",
+    "人妻": "renqi",
+    "良家": "liangjia",
+    "开放": "kaifang",
+    "骚": "sao",
+    "年轻": "nianqing",
+    "成熟": "chengshu",
+    "丰满": "fengman",
+    "性感": "xinggan",
+    "气质": "qizhi",
+    "优雅": "youya",
+    "知书达理": "zhishudali",
+    "会聊天": "huiliaotian",
+    "懂男人": "dongnanren",
+    "会哄人": "huihongren",
+    "独立": "duli",
+    "有主见": "youzhujian",
+    "才女": "cainv",
+    "文艺": "wenyi",
+    "小资": "xiaozi",
+    "精致": "jingzhi",
+    "爱干净": "aiganjing",
+    "爱打扮": "aidaban",
+    "会穿搭": "huichuanda",
+    "时髦": "shimao",
+    "潮流": "chaoliu",
+    "会化妆": "huihuazhuang",
+    "妆容精致": "zhuangrongjingzhi",
+    "皮肤细腻": "pifuxini",
+    "身材火辣": "shencaihuola",
+    "前凸后翘": "qiantuhoutiao",
+    "S型": "sxing",
+    "翘臀": "qiaotun",
+    "细腰": "xiyao",
+    "美腿": "meitui",
+    "美背": "meibei",
+    "锁骨": "suogu",
+    "香肩": "xiangjian",
+    "天鹅颈": "tianeijing",
+    "柳腰": "liuyao",
+    "蛮腰": "manyao",
+    "盈盈一握": "yingyingyiwo"
+  },
+  "tag_variants": {
+    "反差": [
+      "反差",
+      "fancha",
+      "FANCHA",
+      "反差婊"
+    ],
+    "萝莉": [
+      "萝莉",
+      "蘿莉",
+      "luoli",
+      "LUOLI",
+      "loli",
+      "LOLI",
+      "小萝莉"
+    ],
+    "学生": [
+      "在校生",
+      "xuesheng",
+      "XS",
+      "学生",
+      "學生",
+      "学生妹",
+      "在校",
+      "校花",
+      "学妹"
+    ],
+    "一万以下": [
+      "一万",
+      "1w",
+      "1W",
+      "yiwan",
+      "五千"
+    ],
+    "一万到三万": [
+      "2w",
+      "2W",
+      "两万",
+      "一万五",
+      "1.5w",
+      "两万五"
+    ],
+    "三万以上": [
+      "三万",
+      "五万",
+      "八万",
+      "十万",
+      "3w",
+      "3W"
+    ],
+    "艺术生": [
+      "艺术生",
+      "藝術生",
+      "yishusheng",
+      "YISHUSHENG",
+      "艺校",
+      "艺考"
+    ],
+    "御姐": [
+      "御姐",
+      "yujie",
+      "YUJIE",
+      "姐姐",
+      "成熟"
+    ],
+    "jk": [
+      "jk",
+      "JK",
+      "Jk",
+      "jK",
+      "jk制服",
+      "JK制服"
+    ],
+    "cos": [
+      "cos",
+      "COS",
+      "Cos",
+      "coS",
+      "cosplay",
+      "COSPLAY",
+      "角色扮演"
+    ],
+    "舞蹈": [
+      "舞蹈",
+      "wudao",
+      "WUDAO",
+      "跳舞",
+      "舞蹈生"
+    ],
+    "声音甜": [
+      "声音甜",
+      "shengyintian",
+      "SHENGYINTIAN",
+      "声音好听",
+      "嗓音甜",
+      "甜音"
+    ],
+    "嗲": [
+      "嗲",
+      "dia",
+      "DIA",
+      "嗲嗲",
+      "嗲声嗲气"
+    ],
+    "可爱": [
+      "可爱",
+      "可愛",
+      "keai",
+      "KEAI",
+      "萌萌哒",
+      "可爱型"
+    ],
+    "大长腿": [
+      "大长腿",
+      "dachangtui",
+      "DACHANGTUI"
+    ],
+    "乖巧": [
+      "乖巧",
+      "guaiqiao",
+      "GUAIQIAO"
+    ],
+    "听话": [
+      "听话",
+      "tinghua",
+      "TINGHUA",
+      "很听话"
+    ],
+    "童颜": [
+      "童颜",
+      "tongyan",
+      "TONGYAN",
+      "娃娃脸",
+      "童颜巨"
+    ],
+    "白小纯": [
+      "白小纯",
+      "baixiaochun",
+      "BAIXIAOCHUN"
+    ],
+    "日系": [
+      "日系",
+      "rixi",
+      "RIXI",
+      "日本风",
+      "日式"
+    ],
+    "韩系": [
+      "韩系",
+      "hanxi",
+      "HANXI",
+      "韩国风",
+      "韩式"
+    ],
+    "活泼": [
+      "活泼",
+      "huopo",
+      "HUOPO",
+      "外向"
+    ],
+    "三通": [
+      "三通",
+      "santong",
+      "SANTONG",
+      "3通"
+    ],
+    "配合度高": [
+      "配合度高",
+      "peihedulegao",
+      "PEIHEDULEGAO",
+      "配合",
+      "很配合",
+      "配合度"
+    ],
+    "会做饭": [
+      "会做饭",
+      "huizuofan",
+      "HUIZUOFAN",
+      "做饭",
+      "会烧菜",
+      "厨艺好"
+    ],
+    "纯天然": [
+      "纯天然",
+      "chuntianran",
+      "CHUNTIANRAN",
+      "天然",
+      "无整容",
+      "原生"
+    ],
+    "打游戏": [
+      "打游戏",
+      "dayouxi",
+      "DAYOUXI",
+      "玩游戏",
+      "游戏",
+      "电竞"
+    ],
+    "妈生脸": [
+      "妈生脸",
+      "mashenglian",
+      "MASHENGLIAN",
+      "原生脸",
+      "天生丽质"
+    ],
+    "水多": [
+      "水多",
+      "shuiduo",
+      "SHUIDUO"
+    ],
+    "喷水": [
+      "喷水",
+      "penshui",
+      "PENSHUI",
+      "会喷水"
+    ],
+    "制服": [
+      "制服",
+      "zhifu",
+      "ZHIFU",
+      "制服诱惑"
+    ],
+    "情趣": [
+      "情趣",
+      "qingqu",
+      "QINGQU",
+      "情趣内衣",
+      "情趣装"
+    ],
+    "口活好": [
+      "口活好",
+      "kouhuohao",
+      "KOUHUOHAO",
+      "口活",
+      "口技好",
+      "KB好"
+    ],
+    "可拍视频": [
+      "可拍视频",
+      "kepaishipin",
+      "KEPAISHIPIN",
+      "可拍",
+      "能拍",
+      "拍视频"
+    ],
+    "懂事": [
+      "懂事",
+      "dongshi",
+      "DONGSHI",
+      "很懂事"
+    ],
+    "情绪价值": [
+      "情绪价值",
+      "qingxujiazhi",
+      "QINGXUJIAZHI",
+      "有情绪价值",
+      "懂你"
+    ],
+    "放得开": [
+      "放得开",
+      "放的开",
+      "fangdekai",
+      "FANGDEKAI",
+      "开放",
+      "不保守"
+    ],
+    "性格好": [
+      "性格好",
+      "xinggegao",
+      "XINGGEGAO",
+      "好相处"
+    ],
+    "安静": [
+      "安静",
+      "anjing",
+      "ANJING",
+      "很安静"
+    ],
+    "文静": [
+      "文静",
+      "wenjing",
+      "WENJING",
+      "斯文"
+    ],
+    "高挑": [
+      "高挑",
+      "gaotiao",
+      "GAOTIAO",
+      "身材高挑"
+    ],
+    "腿长": [
+      "腿长",
+      "tuichang",
+      "TUICHANG",
+      "长腿"
+    ],
+    "恋爱脑": [
+      "恋爱脑",
+      "lianaonao",
+      "LIANAONAO",
+      "恋爱",
+      "爱脑"
+    ],
+    "瑜伽": [
+      "瑜伽",
+      "yujia",
+      "YUJIA",
+      "练瑜伽",
+      "瑜伽教练"
+    ],
+    "三点粉": [
+      "三点粉",
+      "sandianfen",
+      "SANDIANFEN"
+    ],
+    "混血": [
+      "混血",
+      "hunxie",
+      "HUNXIE",
+      "混血儿",
+      "中俄混血",
+      "中日混血"
+    ],
+    "活好": [
+      "活好",
+      "huohao",
+      "HUOHAO",
+      "技术好"
+    ],
+    "健身": [
+      "健身",
+      "jianshen",
+      "JIANSHEN",
+      "健身房",
+      "爱健身",
+      "健身教练"
+    ],
+    "单纯": [
+      "单纯",
+      "danchun",
+      "DANCHUN",
+      "很单纯"
+    ],
+    "皮肤白": [
+      "皮肤白",
+      "pifubai",
+      "PIFUBAI",
+      "白皙"
+    ],
+    "清纯": [
+      "清纯",
+      "qingchun",
+      "QINGCHUN",
+      "清纯型"
+    ],
+    "乖乖女": [
+      "乖乖女",
+      "guaiguainv",
+      "GUAIGUAINV",
+      "乖女"
+    ],
+    "小狗": [
+      "小狗",
+      "xiaogou",
+      "XIAOGOU",
+      "小🐶",
+      "狗狗",
+      "小狗属性"
+    ],
+    "情商高": [
+      "情商高",
+      "qingshanggao",
+      "QINGSHANGGAO",
+      "情商",
+      "高情商",
+      "会说话"
+    ],
+    "音乐生": [
+      "音乐生",
+      "yinyuesheng",
+      "YINYUESHENG",
+      "学音乐",
+      "音乐学院"
+    ],
+    "女高": [
+      "女高",
+      "nvgao",
+      "NVGAO",
+      "女高中生"
+    ],
+    "撒娇": [
+      "撒娇",
+      "sajiao",
+      "SAJIAO"
+    ],
+    "风骚": [
+      "风骚",
+      "fengsao",
+      "FENGSAO",
+      "骚",
+      "性感"
+    ],
+    "开朗": [
+      "开朗",
+      "kailang",
+      "KAILANG",
+      "外向开朗"
+    ],
+    "圈子干净": [
+      "圈子干净",
+      "quanziganjing",
+      "QUANZIGANJING",
+      "干净",
+      "圈子"
+    ],
+    "粘人": [
+      "粘人",
+      "zhanren",
+      "ZHANREN",
+      "很粘人"
+    ],
+    "苗条": [
+      "苗条",
+      "miaotiao",
+      "MIAOTIAO",
+      "身材苗条"
+    ],
+    "学历高": [
+      "学历高",
+      "xueliigao",
+      "XUELIIGAO",
+      "高学历",
+      "名校"
+    ],
+    "会唱歌": [
+      "会唱歌",
+      "huichangge",
+      "HUICHANGGE",
+      "唱歌好听",
+      "唱歌"
+    ],
+    "留学": [
+      "留学",
+      "liuxue",
+      "LIUXUE",
+      "留学生",
+      "海归"
+    ],
+    "敏感": [
+      "敏感",
+      "mingan",
+      "MINGAN",
+      "很敏感",
+      "敏感点多"
+    ],
+    "高认知": [
+      "高认知",
+      "gaorenshi",
+      "GAORENSHI",
+      "认知高",
+      "有见识"
+    ],
+    "知性": [
+      "知性",
+      "zhixing",
+      "ZHIXING",
+      "知性美",
+      "有气质"
+    ],
+    "脾气好": [
+      "脾气好",
+      "piqihao",
+      "PIQIHAO",
+      "好脾气",
+      "温柔"
+    ],
+    "贤妻良母": [
+      "贤妻良母",
+      "xianqiliangmu",
+      "XIANQILIANGMU",
+      "贤妻",
+      "良母"
+    ],
+    "空乘": [
+      "空乘",
+      "kongcheng",
+      "KONGCHENG",
+      "空姐",
+      "乘务员"
+    ],
+    "会按摩": [
+      "会按摩",
+      "huianmo",
+      "HUIANMO",
+      "按摩",
+      "按摩师"
+    ],
+    "会开车": [
+      "会开车",
+      "huikaiche",
+      "HUIKAICHE",
+      "开车",
+      "有驾照"
+    ],
+    "善解人意": [
+      "善解人意",
+      "shanjirenyi",
+      "SHANJIRENYI",
+      "体贴"
+    ],
+    "高素质": [
+      "高素质",
+      "gaosuzhi",
+      "GAOSUZHI",
+      "素质高",
+      "有素质"
+    ],
+    "甜妹": [
+      "甜妹",
+      "tianmei",
+      "TIANMEI",
+      "甜美",
+      "甜甜"
+    ],
+    "演员": [
+      "演员",
+      "yanyuan",
+      "YANYUAN",
+      "表演",
+      "演艺"
+    ],
+    "腹肌": [
+      "腹肌",
+      "fuji",
+      "FUJI",
+      "马甲线",
+      "有腹肌"
+    ],
+    "皮肤好": [
+      "皮肤好",
+      "pifuhao",
+      "PIFUHAO",
+      "皮肤白嫩"
+    ],
+    "娇小": [
+      "娇小",
+      "jiaoxiao",
+      "JIAOXIAO",
+      "小巧",
+      "小只"
+    ],
+    "小骨架": [
+      "小骨架",
+      "xiaogujia",
+      "XIAOGUJIA",
+      "骨架小",
+      "骨感"
+    ],
+    "时尚": [
+      "时尚",
+      "shishang",
+      "SHISHANG",
+      "潮流"
+    ],
+    "会撒娇": [
+      "会撒娇",
+      "huisajiao",
+      "HUISAJIAO",
+      "爱撒娇"
+    ],
+    "眼镜": [
+      "眼镜",
+      "yanjing",
+      "YANJING",
+      "戴眼镜",
+      "眼镜娘"
+    ],
+    "顺从": [
+      "顺从",
+      "shuncong",
+      "SHUNCONG",
+      "服从"
+    ],
+    "萌": [
+      "萌",
+      "meng",
+      "MENG",
+      "萌萌",
+      "萌系"
+    ],
+    "佛系": [
+      "佛系",
+      "foxi",
+      "FOXI"
+    ],
+    "高瘦白": [
+      "高瘦白",
+      "gaoshoubai",
+      "GAOSHOUBAI"
+    ],
+    "邻家": [
+      "邻家",
+      "linjia",
+      "LINJIA",
+      "邻家女孩",
+      "邻家妹妹"
+    ],
+    "风格多变": [
+      "风格多变",
+      "fenggduobian",
+      "FENGGDUOBIAN",
+      "多变",
+      "风格"
+    ],
+    "阳光": [
+      "阳光",
+      "yangguang",
+      "YANGGUANG",
+      "阳光型",
+      "元气"
+    ],
+    "腼腆": [
+      "腼腆",
+      "miantian",
+      "MIANTIAN",
+      "害羞",
+      "内向"
+    ],
+    "美少女": [
+      "美少女",
+      "meishaonv",
+      "MEISHAONV",
+      "少女"
+    ],
+    "明星脸": [
+      "明星脸",
+      "mingxinglian",
+      "MINGXINGLIAN",
+      "像明星"
+    ],
+    "洋气": [
+      "洋气",
+      "yangqi",
+      "YANGQI",
+      "很洋气"
+    ],
+    "白虎": [
+      "白虎",
+      "baihu",
+      "BAIHU",
+      "BH"
+    ],
+    "白月光": [
+      "白月光",
+      "baiyueguang",
+      "BAIYUEGUANG",
+      "初恋脸"
+    ],
+    "筷子腿": [
+      "筷子腿",
+      "kuaizitui",
+      "KUAIZITUI",
+      "筷子",
+      "细腿"
+    ],
+    "白幼廋": [
+      "白幼廋",
+      "白幼瘦",
+      "baiyoushou",
+      "BAIYOUSHOU"
+    ],
+    "淑女": [
+      "淑女",
+      "shunv",
+      "SHUNV",
+      "大家闺秀",
+      "有教养"
+    ],
+    "SM": [
+      "SM",
+      "sm",
+      "Sm",
+      "sM",
+      "S",
+      "M",
+      "s",
+      "m",
+      "字母圈"
+    ],
+    "可跨省": [
+      "可跨省",
+      "kekuasheng",
+      "KEKUASHENG",
+      "跨省",
+      "外省",
+      "出省",
+      "可出省",
+      "能跨省"
+    ],
+    "可出国": [
+      "可出国",
+      "kechuguo",
+      "KECHUGUO",
+      "出国",
+      "能出国",
+      "国外",
+      "可国外"
+    ],
+    "内射": [
+      "内射",
+      "neishe",
+      "NEISHE",
+      "NS",
+      "ns"
+    ],
+    "无套": [
+      "无套",
+      "wutao",
+      "WUTAO",
+      "WT",
+      "wt"
+    ],
+    "颜值高": [
+      "颜值高",
+      "yanzhigao",
+      "YANZHIGAO",
+      "颜值",
+      "漂亮",
+      "好看",
+      "美",
+      "美女"
+    ],
+    "身材好": [
+      "身材好",
+      "shencaihao",
+      "SHENCAIHAO",
+      "身材",
+      "好身材",
+      "身材棒"
+    ],
+    "温柔": [
+      "温柔",
+      "wenrou",
+      "WENROU",
+      "温柔体贴",
+      "很温柔"
+    ],
+    "热情": [
+      "热情",
+      "reqing",
+      "REQING",
+      "很热情",
+      "热情似火"
+    ],
+    "人妻": [
+      "人妻",
+      "renqi",
+      "RENQI",
+      "少妇",
+      "已婚"
+    ],
+    "良家": [
+      "良家",
+      "liangjia",
+      "LIANGJIA",
+      "良家少妇",
+      "良家妹子"
+    ],
+    "开放": [
+      "开放",
+      "kaifang",
+      "KAIFANG",
+      "很开放",
+      "思想开放"
+    ],
+    "骚": [
+      "骚",
+      "sao",
+      "SAO",
+      "很骚",
+      "骚气"
+    ],
+    "年轻": [
+      "年轻",
+      "nianqing",
+      "NIANQING",
+      "青春",
+      "年轻漂亮"
+    ],
+    "成熟": [
+      "成熟",
+      "chengshu",
+      "CHENGSHU",
+      "成熟稳重",
+      "成熟女人"
+    ],
+    "丰满": [
+      "丰满",
+      "fengman",
+      "FENGMAN",
+      "丰腴",
+      "肉感"
+    ],
+    "性感": [
+      "性感",
+      "xinggan",
+      "XINGGAN",
+      "很性感",
+      "性感尤物"
+    ],
+    "气质": [
+      "气质",
+      "qizhi",
+      "QIZHI",
+      "有气质",
+      "气质佳"
+    ],
+    "优雅": [
+      "优雅",
+      "youya",
+      "YOUYA",
+      "优雅大方",
+      "很优雅"
+    ],
+    "知书达理": [
+      "知书达理",
+      "zhishudali",
+      "ZHISHUDALI",
+      "有教养",
+      "有修养"
+    ],
+    "会聊天": [
+      "会聊天",
+      "huiliaotian",
+      "HUILIAOTIAN",
+      "聊天",
+      "善于沟通"
+    ],
+    "懂男人": [
+      "懂男人",
+      "dongnanren",
+      "DONGNANREN",
+      "懂你",
+      "知你"
+    ],
+    "会哄人": [
+      "会哄人",
+      "huihongren",
+      "HUIHONGREN",
+      "哄人",
+      "会撒娇"
+    ],
+    "独立": [
+      "独立",
+      "duli",
+      "DULI",
+      "独立自主",
+      "经济独立"
+    ],
+    "有主见": [
+      "有主见",
+      "youzhujian",
+      "YOUZHUJIAN",
+      "主见",
+      "有想法"
+    ],
+    "才女": [
+      "才女",
+      "cainv",
+      "CAINV",
+      "才貌双全"
+    ],
+    "文艺": [
+      "文艺",
+      "wenyi",
+      "WENYI",
+      "文艺范",
+      "文艺女青年"
+    ],
+    "小资": [
+      "小资",
+      "xiaozi",
+      "XIAOZI",
+      "小资情调"
+    ],
+    "精致": [
+      "精致",
+      "jingzhi",
+      "JINGZHI",
+      "精致女人",
+      "精致生活"
+    ],
+    "爱干净": [
+      "爱干净",
+      "aiganjing",
+      "AIGANJING",
+      "干净",
+      "很干净"
+    ],
+    "爱打扮": [
+      "爱打扮",
+      "aidaban",
+      "AIDABAN",
+      "打扮",
+      "会打扮"
+    ],
+    "会穿搭": [
+      "会穿搭",
+      "huichuanda",
+      "HUICHUANDA",
+      "穿搭",
+      "会搭配"
+    ],
+    "时髦": [
+      "时髦",
+      "shimao",
+      "SHIMAO",
+      "很时髦"
+    ],
+    "潮流": [
+      "潮流",
+      "chaoliu",
+      "CHAOLIU",
+      "潮人",
+      "很潮"
+    ],
+    "会化妆": [
+      "会化妆",
+      "huihuazhuang",
+      "HUIHUAZHUANG",
+      "化妆",
+      "化妆技术好"
+    ],
+    "妆容精致": [
+      "妆容精致",
+      "zhuangrongjingzhi",
+      "ZHUANGRONGJINGZHI",
+      "妆容",
+      "精致妆容"
+    ],
+    "皮肤细腻": [
+      "皮肤细腻",
+      "pifuxini",
+      "PIFUXINI",
+      "细腻",
+      "皮肤好"
+    ],
+    "身材火辣": [
+      "身材火辣",
+      "shencaihuola",
+      "SHENCAIHUOLA",
+      "火辣",
+      "火爆身材"
+    ],
+    "前凸后翘": [
+      "前凸后翘",
+      "qiantuhoutiao",
+      "QIANTUHOUTIAO",
+      "凹凸有致"
+    ],
+    "S型": [
+      "S型",
+      "sxing",
+      "SXING",
+      "S型身材",
+      "S曲线"
+    ],
+    "翘臀": [
+      "翘臀",
+      "qiaotun",
+      "QIAOTUN",
+      "蜜桃臀"
+    ],
+    "细腰": [
+      "细腰",
+      "xiyao",
+      "XIYAO",
+      "小蛮腰",
+      "水蛇腰"
+    ],
+    "美腿": [
+      "美腿",
+      "meitui",
+      "MEITUI",
+      "玉腿"
+    ],
+    "美背": [
+      "美背",
+      "meibei",
+      "MEIBEI",
+      "性感美背"
+    ],
+    "锁骨": [
+      "锁骨",
+      "suogu",
+      "SUOGU",
+      "迷人锁骨"
+    ],
+    "香肩": [
+      "香肩",
+      "xiangjian",
+      "XIANGJIAN",
+      "玉肩"
+    ],
+    "天鹅颈": [
+      "天鹅颈",
+      "tianeijing",
+      "TIANEIJING",
+      "修长颈部"
+    ],
+    "柳腰": [
+      "柳腰",
+      "liuyao",
+      "LIUYAO",
+      "杨柳细腰"
+    ],
+    "蛮腰": [
+      "蛮腰",
+      "manyao",
+      "MANYAO",
+      "小蛮腰"
+    ],
+    "盈盈一握": [
+      "盈盈一握",
+      "yingyingyiwo",
+      "YINGYINGYIWO",
+      "纤细"
+    ]
+  }
+}
